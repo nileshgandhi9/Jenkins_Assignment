@@ -18,7 +18,7 @@ class Rectanglemain{
 	public static void main(String args[]){
 		Rectangle r = new Rectangle();
 			
-			r.SetValue(5,8);
+			r.SetValue(10,9);
 			r.area();
 			r.perimeter();
 	}
